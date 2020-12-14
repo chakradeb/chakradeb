@@ -19,13 +19,8 @@ I am an Application Developer. I have done my Bachelors's in Computer Science ü
 - üé• &nbsp; Marvel fan. If you tell me to choose favourite avenger I would always choose Tony Stark
 - üèè &nbsp; Cricket is my favourite sport. I love to watch and play Cricket
 
-<br/>
-
----
-
 <!-- Social -->
 ## Connect with me:
-
 <br/>
 <a href="https://twitter.com/chakradeb_">
     <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="twitter" height="30" width="30" />
@@ -50,67 +45,57 @@ I am an Application Developer. I have done my Bachelors's in Computer Science ü
 </a>
 </p>
 
-<br />
-<br />
-
----
-
-<br />
-
-
 ## Languages and Tools:
-
 <br/>
-
 <table>
     <tr>
         <td align="center" width="96">
             <a href="https://golang.org/">
                 <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="golang" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Golang
         </td>
         <td align="center" width="96">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Javascript
         </td>
         <td align="center" width="96">
             <a href="https://nodejs.org">
                 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>NodeJS
         </td>
         <td align="center" width="96">
             <a href="https://www.w3.org/html/">
                 <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>HTML5
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/css/">
                 <img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>CSS3
         </td>
         <td align="center" width="96">
             <a href="https://git-scm.com/">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Git
         </td>
         <td align="center" width="96">
             <a href="https://www.docker.com/">
                 <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Docker
         </td>
         <td align="center" width="96">
             <a href="https://www.postgresql.org">
                 <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Postgres
         </td>
     </tr>
     <tr>
@@ -118,53 +103,47 @@ I am an Application Developer. I have done my Bachelors's in Computer Science ü
             <a href="https://www.scala-lang.org/">
                 <img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Scala
         </td>
         <td align="center" width="96">
             <a href="https://reactjs.org/">
                 <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>ReactJS
         </td>
         <td align="center" width="96">
             <a href="https://sass-lang.com">
                 <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Sass
         </td>
         <td align="center" width="96">
             <a href="https://aws.amazon.com/">
                 <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>AWS
         </td>
         <td align="center" width="96">
             <a href="https://unity.com/">
                 <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" alt="unity" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Unity
         </td>
         <td align="center" width="96">
             <a href="https://www.adobe.com/in/products/illustrator.html">
                 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
             </a>
-            <br/>C#&nbsp;(Core)
+            <br/>Illustrator
         </td>
     </tr>
 </table>
 
-<br />
-
----
+### üìà My GitHub Stats
 
 <br />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
 
-
-<h2 align="left">üìà My GitHub Stats</h2>
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
 
 
 <!--
