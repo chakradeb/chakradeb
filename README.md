@@ -45,6 +45,7 @@ I am an Application Developer. I have done my Bachelors's in Computer Science ðŸ
 </a>
 </p>
 <br/>
+
 ## Languages and Tools:
 <br/>
 <table>
@@ -143,6 +144,7 @@ I am an Application Developer. I have done my Bachelors's in Computer Science ðŸ
 <br />
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
+    &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
 </p>
 
