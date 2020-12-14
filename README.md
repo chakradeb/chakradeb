@@ -44,7 +44,7 @@ I am an Application Developer. I have done my Bachelors's in Computer Science ðŸ
     <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" alt="discord" height="30" width="30" />
 </a>
 </p>
-
+<br/>
 ## Languages and Tools:
 <br/>
 <table>
@@ -141,9 +141,10 @@ I am an Application Developer. I have done my Bachelors's in Computer Science ðŸ
 ### ðŸ“ˆ My GitHub Stats
 
 <br />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
-
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
+</p>
 
 
 <!--
