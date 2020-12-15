@@ -2,7 +2,7 @@
 
 
 <!-- welcome message -->
-<h1>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Debarun Chakraborty</h1>
+<h1>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <span style="color:aqua">Debarun Chakraborty</span></h1>
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=chakradeb.chajradeb)
 
