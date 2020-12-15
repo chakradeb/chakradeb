@@ -7,14 +7,17 @@
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=chakradeb.chajradeb)
 
 <!-- About me -->
-I am an Application Developer. I have done my Bachelors's in Computer Science 🎓 from Alagappa University 🏛.
-
+- 🧑🏻‍💻 &nbsp; I am an Application Developer | Digital Creator
+- 🏢 &nbsp; I work at [ThoughtWorks](https://www.thoughtworks.com/) as a Consultant.
+- 🎓 &nbsp; I have done my Bachelors's in Computer Science 📗 from Alagappa University 🏛.
 - 🛠 &nbsp; I’m currently working with Golang, React, Scala, Postgresql, Spark, etc.
+- 📩 &nbsp; You can mail me at debarun.chakraborty96@gmail.com
 
 ### My Hobbies:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love to code and build cool stuffs.
 - 🎮 &nbsp; Gaming is my passion. I would love to do something on that field (either as a gamer or as a game developer)
+- 📸 &nbsp; Also I am trying to learn photography. You can find my clicks on my [insta](https://www.instagram.com/debarun_xd/) Do check it out and give me some feedbacks
 - 📚 &nbsp; I love to read story books. Favourite Genre: Crime Fiction
 - 🎥 &nbsp; Marvel fan. If you tell me to choose favourite avenger I would always choose Tony Stark
 - 🏏 &nbsp; Cricket is my favourite sport. I love to watch and play Cricket
@@ -120,21 +123,33 @@ I am an Application Developer. I have done my Bachelors's in Computer Science �
         </td>
         <td align="center" width="96">
             <a href="https://aws.amazon.com/">
-                <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
+                <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" height="30"/>
             </a>
             <br/>AWS
         </td>
         <td align="center" width="96">
             <a href="https://unity.com/">
-                <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" alt="unity" width="30" height="30"/>
+                <img src="https://static.techspot.com/images2/downloads/topdownload/2014/05/unity.png" alt="unity" width="30" height="30"/>
             </a>
             <br/>Unity
+        </td>
+        <td align="center" width="96">
+            <a href="https://docs.chef.io/">
+                <img src="https://code.benco.io/icon-collection/logos/chef-2.svg" alt="Chef" width="30" height="30"/>
+            </a>
+            <br/>Chef
         </td>
         <td align="center" width="96">
             <a href="https://www.adobe.com/in/products/illustrator.html">
                 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
             </a>
             <br/>Illustrator
+        </td>
+        <td align="center" width="96">
+            <a href="https://procreate.art">
+                <img src="https://mateurbin.com/img/images/procreate.png" alt="procreate" width="30" height="30"/>
+            </a>
+            <br/>Procreate
         </td>
     </tr>
 </table>
@@ -144,6 +159,7 @@ I am an Application Developer. I have done my Bachelors's in Computer Science �
 <br />
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
+    &nbsp;
     &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
 </p>
