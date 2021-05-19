@@ -61,43 +61,43 @@
         </td>
         <td align="center" width="96">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
             </a>
             <br/>Javascript
         </td>
         <td align="center" width="96">
             <a href="https://nodejs.org">
-                <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
             </a>
             <br/>NodeJS
         </td>
         <td align="center" width="96">
             <a href="https://www.w3.org/html/">
-                <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
             </a>
             <br/>HTML5
         </td>
         <td align="center" width="96">
             <a href="https://www.w3schools.com/css/">
-                <img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
             </a>
             <br/>CSS3
         </td>
         <td align="center" width="96">
             <a href="https://git-scm.com/">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
             </a>
             <br/>Git
         </td>
         <td align="center" width="96">
             <a href="https://www.docker.com/">
-                <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
             </a>
             <br/>Docker
         </td>
         <td align="center" width="96">
             <a href="https://www.postgresql.org">
-                <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
             </a>
             <br/>Postgres
         </td>
@@ -105,25 +105,25 @@
     <tr>
         <td align="center" width="96">
             <a href="https://www.scala-lang.org/">
-                <img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/>
             </a>
             <br/>Scala
         </td>
         <td align="center" width="96">
             <a href="https://reactjs.org/">
-                <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
             </a>
             <br/>ReactJS
         </td>
         <td align="center" width="96">
             <a href="https://sass-lang.com">
-                <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
             </a>
             <br/>Sass
         </td>
         <td align="center" width="96">
             <a href="https://aws.amazon.com/">
-                <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" height="30"/>
             </a>
             <br/>AWS
         </td>
