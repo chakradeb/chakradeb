@@ -55,7 +55,7 @@
     <tr>
         <td align="center" width="96">
             <a href="https://golang.org/">
-                <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="golang" width="30" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="30" height="30"/>
             </a>
             <br/>Golang
         </td>
@@ -158,10 +158,10 @@
 
 <br />
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chakradeb&show_icons=true&theme=vision-friendly-dark" alt="chakradeb" />
     &nbsp;
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradeb&show_icons=true&theme=gotham" alt="chakradeb" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradeb&show_icons=true&theme=vision-friendly-dark" alt="chakradeb" />
 </p>
 
 
