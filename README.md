@@ -1,6 +1,6 @@
 ![Banner](https://github.com/chakradeb/chakradeb/blob/main/github-profile-cover.jpg)
 
-<a href="https://app.daily.dev/chakradeb"><img src="https://github.com/chakradeb/chakradeb/blob/main/devcard.svg" align="right" width="400" alt="Debarun Chakraborty's Dev Card"/></a>
+<a href="https://app.daily.dev/chakradeb"><img src="https://raw.githubusercontent.com/chakradeb/chakradeb/main/devcard.svg" align="right" width="400" alt="Debarun Chakraborty's Dev Card"/></a>
 
 <!-- welcome message -->
 <h1>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <span style="color:aqua">Debarun Chakraborty</span></h1>
