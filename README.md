@@ -1,5 +1,6 @@
 ![Banner](https://github.com/chakradeb/chakradeb/blob/main/github-profile-cover.jpg)
 
+<a href="https://app.daily.dev/chakradeb"><img src="https://api.daily.dev/devcards/60c056c265f740c082ec9f60028e133d.png?r=pcx" align="right" width="400" alt="Debarun Chakraborty's Dev Card"/></a>
 
 <!-- welcome message -->
 <h1>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <span style="color:aqua">Debarun Chakraborty</span></h1>
@@ -22,29 +23,21 @@
 - 🎥 &nbsp; Marvel fan. If you tell me to choose favourite avenger I would always choose Tony Stark
 - 🏏 &nbsp; Cricket is my favourite sport. I love to watch and play Cricket
 
+
 <!-- Social -->
 ## Connect with me:
 <br/>
 <a href="https://twitter.com/chakradeb_">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="twitter" height="30" width="30" />
+    <img align="left" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" />
 </a>
 <a href="https://www.linkedin.com/in/chakradeb">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin" height="30" width="30" />
-</a>
-<a href="https://www.instagram.com/debarun_xd">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="instagram" height="30" width="30" />
+    <img align="left" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
 </a>
 <a href="https://www.facebook.com/chakradeb">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" alt="facebook" height="30" width="30" />
+    <img align="left" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="30" width="30" />
 </a>
 <a href="https://hashnode.com/@chakradeb">
     <img align="left" hspace="10" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" alt="hashnode" height="30" width="30" />
-</a>
-<a href="https://www.youtube.com/nearlynoob">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="youtube" height="30" width="30" />
-</a>
-<a href="https://discord.gg/2fnFaTE">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" alt="discord" height="30" width="30" />
 </a>
 </p>
 <br/>
