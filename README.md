@@ -17,10 +17,10 @@
 
 <br />
 <p align="left">
-    <img src="https://github-readme-stats-3otu4grh9-debarun-chakrabortys-projects.vercel.app/api?username=chakradeb&show_icons=true&hide=stars&show=prs_merged&rank_icon=github&theme=tokyonight" alt="chakradeb" />
+    <img src="https://github-readme-stats-beta-hazel-31.vercel.app/api?username=chakradeb&show_icons=true&hide=stars&show=prs_merged&rank_icon=github&theme=tokyonight" alt="chakradeb" />
     &nbsp;
     &nbsp;
-    <img src="https://github-readme-stats-3otu4grh9-debarun-chakrabortys-projects.vercel.app/api/top-langs/?username=chakradeb&layout=donut&hide=shell&theme=tokyonight" alt="chakradeb" />
+    <img src="https://github-readme-stats-beta-hazel-31.vercel.app/api/top-langs/?username=chakradeb&layout=donut&hide=shell&theme=tokyonight" alt="chakradeb" />
 </p>
 
 
