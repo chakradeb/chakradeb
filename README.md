@@ -5,7 +5,7 @@
 
 <!-- About me -->
 
-- 🧑🏻‍💻 &nbsp; I am a Senior Software Engineer with 6+ years of experience building scalable, high-impact solutions
+- 🧑🏻‍💻 &nbsp; I am a Senior Software Engineer with 7+ years of experience building scalable, high-impact solutions
 - 🏢 &nbsp; I work at [Marmin Tech](https://www.marmintech.com/) as a Senior Software Engineer.
 - 📍 &nbsp; Based in Kolkata, West Bengal, India
 - 🎓 &nbsp; I have done my Bachelor's in Computer Science 📗 from Alagappa University 🏛.
